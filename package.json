@@ -26,5 +26,8 @@
   "resolutions": {
     "**/ecstatic": "4.1.4",
     "**/lodash": "^4.17.19"
+  },
+  "dependencies": {
+    "redux": "^4.0.5"
   }
 }
